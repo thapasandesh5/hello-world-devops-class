@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>My Cat Website</title>
+    <title>Me kahoot winner website</title>
     <style>
       body {
         background-color: #fcfcfc;
@@ -30,6 +30,21 @@
         font-size: 18px;
         padding: 20px;
       }
+      <html>
+  <head>
+    <style>
+      img {
+        float: right;
+        margin: 0 0 20px 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <p>SAndesh</p>
+    <img src="https://cdn.discordapp.com/attachments/1058240188985384990/1058240200926580816/image.png" alt="A cute cat">
+  </body>
+</html>
+
       .cat-footer {
         background-color: #222;
         color: white;
