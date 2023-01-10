@@ -55,9 +55,9 @@
         Hello, and welcome to my the kahoot winners website. 
       </div>
       <div class="cat-footer">
-        <a class="cat-link" href="#">About</a>
-        <a class="cat-link" href="#">Contact</a>
-        <a class="cat-link" href="#">Privacy Policy</a>
+        <a class="cat-link" href="#">me</a>
+        <a class="cat-link" href="#">kahoot</a>
+        <a class="cat-link" href="#">winner</a>
       </div>
     </div>
   </body>
