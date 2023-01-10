@@ -20,13 +20,6 @@
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
       }
-            .cat-header {
-        background-image: url('https://http.cat/100');
-        background-size: cover;
-        height: 40px;
-        border-top-left-radius: 5px;
-        border-top-right-radius: 5px;
-      }
       .cat-title {
         font-size: 36px;
         font-weight: bold;
