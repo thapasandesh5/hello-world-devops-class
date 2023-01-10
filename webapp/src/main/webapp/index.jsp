@@ -14,7 +14,7 @@
         box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
       }
       .cat-header {
-        background-image: url('cat.jpg');
+        background-image: url('https://http.cat/100');
         background-size: cover;
         height: 300px;
         border-top-left-radius: 10px;
