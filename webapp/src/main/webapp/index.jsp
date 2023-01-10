@@ -20,6 +20,13 @@
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
       }
+            .cat-header {
+        background-image: url('https://http.cat/100');
+        background-size: cover;
+        height: 40px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+      }
       .cat-title {
         font-size: 36px;
         font-weight: bold;
@@ -37,14 +44,6 @@
         float: right;
         margin: 0 0 20px 20px;
       }
-    </style>
-  </head>
-  <body>
-    <p>SAndesh</p>
-    <img src="https://cdn.discordapp.com/attachments/1058240188985384990/1058240200926580816/image.png" alt="A cute cat">
-  </body>
-</html>
-
       .cat-footer {
         background-color: #222;
         color: white;
