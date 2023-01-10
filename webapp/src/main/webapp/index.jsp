@@ -52,7 +52,7 @@
         <div class="cat-title">Welcome to My Cat Website</div>
       </div>
       <div class="cat-description">
-        Hello, and welcome to my cat website! Here you will find all sorts of information about cats, including cat breeds, cat care, and cat-related memes.
+        Hello, and welcome to my the kahoot winners website. 
       </div>
       <div class="cat-footer">
         <a class="cat-link" href="#">About</a>
