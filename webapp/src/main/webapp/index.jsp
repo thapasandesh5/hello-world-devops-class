@@ -4,7 +4,7 @@
 </head>
 <body>
 	<h1>Kahoot Winners</h1>
-	<img src="cat1.jpg" alt="Cat 1">
+	<img src="https://http.cat/100" alt="Cat 1" style="width:200px;height:200px;">
 	<img src="https://cdn.discordapp.com/attachments/1058240188985384990/1058240200926580816/image.png" alt="Cat 2" style="width:200px;height:200px;">
 	<h2>Complaint Form to Report Wrong Winner</h2>
 	<form action="/submit-complaint" method="post">
